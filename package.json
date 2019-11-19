@@ -1,4 +1,5 @@
 {
+	"publisher": "luchanso",
 	"name": "format-me",
 	"displayName": "format-me",
 	"description": "Organize imports, prettier and eslint in one command",
