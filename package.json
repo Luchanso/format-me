@@ -19,6 +19,7 @@
 			"title": "FormatMe: Run"
 		}]
 	},
+	"license": "MIT",
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
 		"compile": "tsc -p ./",
